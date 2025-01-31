@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![skillz](https://skillicons.dev/icons?i=kubernetes,aws,docker,idea,go,java,linux,mysql,git,terraform)
+
 <!--
 **markmckavanagh/markmckavanagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
