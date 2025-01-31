@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Currently working at an ecommerce fraud prevention startup 💳🔒
+
+🔭 In work the main tech stack is **Java**, **Kubernetes** and **AWS**  
+🌱 I’m currently learning **Go**
+
 ![skillz](https://skillicons.dev/icons?i=kubernetes,aws,docker,idea,go,java,linux,mysql,git,terraform)
 
 <!--
